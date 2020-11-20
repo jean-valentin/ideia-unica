@@ -3,10 +3,10 @@ import { useState } from 'react';
 function Home() {
     return (
         <div>
-            <h1>Home</h1>
+            <h1>Página Principal</h1>
             <Contador />
             <br></br>
-            <h3>versão 1.0.0 beta</h3>
+            <h3>versão de teste</h3>
         </div>
     )
 }

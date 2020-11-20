@@ -5,6 +5,8 @@ function Home() {
         <div>
             <h1>Home</h1>
             <Contador />
+            <br></br>
+            <h2>Teste</h2>
         </div>
     )
 }
@@ -15,7 +17,6 @@ function Contador() {
     function adicionarContador() {
         setContador(contador + 1);
     }
-
         return (
             <div>
                 <div>{contador}</div>

@@ -6,7 +6,7 @@ function Home() {
             <h1>Home</h1>
             <Contador />
             <br></br>
-            <h2>versão 1.0.0 beta</h2>
+            <h3>versão 1.0.0 beta</h3>
         </div>
     )
 }
